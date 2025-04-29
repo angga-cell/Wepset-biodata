@@ -1,0 +1,64 @@
+body {
+  background-color: #3498db;
+}
+
+.judul {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+.dibuat {
+  color: #fff;
+  text-align: center;
+  font-size: 10px;
+  position: absolute;
+  top: 65px;
+  bottom: 65px;
+  margin-left: 135px;
+}
+
+.lagu {
+  color: #fff;
+  font-size: 15px;
+}
+
+.cerita {
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+}
+
+.judul-video {
+  color: #fff;
+  font-size: 15px;
+}
+
+.contoh {
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+}
+
+.kembali-ke-home {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+audio {
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#lanjut {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
